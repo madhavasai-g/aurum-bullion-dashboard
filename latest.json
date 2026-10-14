@@ -1,0 +1,4 @@
+{
+  "status": "not_fetched_yet",
+  "note": "Run the Update gold spot snapshot workflow to populate live data. The dashboard fetches the live API directly when opened."
+}
