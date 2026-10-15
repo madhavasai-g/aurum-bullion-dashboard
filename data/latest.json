@@ -1,9 +1,9 @@
 {
-  "snapshot_at": "2026-10-15T00:53:37Z",
-  "usd_per_ounce": 4142.6001,
+  "snapshot_at": "2026-10-15T01:42:16Z",
+  "usd_per_ounce": 4143.2002,
   "usd_inr": 95.252751,
-  "inr_per_gram": 12686.49,
-  "gold_updated_at": "2026-10-15T00:53:27Z",
+  "inr_per_gram": 12688.33,
+  "gold_updated_at": "2026-10-15T01:41:57Z",
   "fx_updated_at": "Thu, 15 Oct 2026 00:02:31 +0000",
   "sources": {
     "gold": "https://gold-api.com/",
@@ -52,6 +52,12 @@
       "usd_per_ounce": 4142.6001,
       "usd_inr": 95.252751,
       "inr_per_gram": 12686.49
+    },
+    {
+      "timestamp": "2026-10-15T01:42:16Z",
+      "usd_per_ounce": 4143.2002,
+      "usd_inr": 95.252751,
+      "inr_per_gram": 12688.33
     }
   ]
 }
