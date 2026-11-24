@@ -5326,5 +5326,11 @@
     "usd_per_ounce": 3632.8501,
     "usd_inr": 92.995018,
     "inr_per_gram": 10861.71
+  },
+  {
+    "timestamp": "2026-11-24T17:45:56Z",
+    "usd_per_ounce": 3562.75,
+    "usd_inr": 92.995018,
+    "inr_per_gram": 10652.12
   }
 ]
